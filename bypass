@@ -1,0 +1,2 @@
+getgenv().bypass = true
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/c02ae61f8a754d8d1b632e1a7182623a.lua"))()
